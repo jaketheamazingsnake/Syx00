@@ -1,0 +1,16 @@
+#messing with this file may corrupt the game and
+#will probably destroy your computer. Change settings in launcher or
+#in-game menu.
+#Thu Mar 12 10:34:35 CET 2015
+key_UP=17
+Resolution=4
+key_ESCAPE=1
+key_NONE=0
+key_DOWN=31
+key_MAP=50
+Fullscreen=1
+key_RIGHT=32
+key_LEFT=30
+key_SPACE=57
+FPS=40
+Vsynch=1
